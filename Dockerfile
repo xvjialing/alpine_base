@@ -2,4 +2,4 @@ FROM alpine
 
 MAINTAINER xvjialing jialing.xu@langyangtech.com
 
-RUN apk add --no-cache bash g++ gcc
+RUN apk add --no-cache bash g++ gcc openrc
